@@ -16,6 +16,7 @@
 🔧 How to Use :
 1.Clone the repository:
 --> git clone https://github.com/yourusername/webweather-app.git
+or you can download the .zip file
 2.Open the project folder.
 3.Open the index.html file in your browser.
 4.Enter a city name in the search box and click the search button.
